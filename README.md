@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jdmcwilliams84
+- 👀 I’m interested in Data Science, Machine Learning, Business Analytics, Economics, Statistics, and Robotics
+- 🌱 I’m currently learning Neural Network creation via Tensorflow, AB Testing, and Electrical Engineering.  
+- 💞️ I’m looking to collaborate on anything interesting!
+- 📫 You can reach me via j.mcwilliams1000@gmail.com  --OR--  https://www.linkedin.com/in/jonathan-mcwilliams-a7587110/
